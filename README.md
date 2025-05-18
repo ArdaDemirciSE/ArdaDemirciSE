@@ -3,7 +3,7 @@
 I am a Software Engineering student at Mehmet Akif Ersoy University, with a growing passion for backend development. You can explore the programming languages, frameworks, and tools I am familiar with below.
 </p>
 <p align="center">
-Currently, I am working on IFS Cloud developments at IFS Türkiye. Since I primarily use Azure DevOps for development, you won't see commits on my GitHub.
+Currently, I am actively working on IFS Cloud developments at IFS Türkiye, primarily using PL/SQL. However, since these projects are carried out through a corporate account, my contributions are not visible as commits on GitHub.
 </p>
 <h3 align="left">Languages:</h3>
 <p align="left">
