@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arda Demirci</h1>
 <p align="center">
-I am a Software Engineering student at Mehmet Akif Ersoy University, with a growing passion for backend development. You can explore the programming languages, frameworks, and tools I am familiar with below.
-</p>
-<p align="center">
 Currently, I am actively working on IFS Cloud developments at IFS Türkiye, primarily using PL/SQL. However, since these projects are carried out through a corporate account, my contributions are not visible as commits on GitHub.
 </p>
 <h3 align="left">Languages:</h3>
